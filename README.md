@@ -1,2 +1,2 @@
 # Data-structure
-Data structure is learning,it is my leam
+Data structure is learning,it is my lean
