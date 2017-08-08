@@ -1,8 +1,8 @@
-#include"binary_tree.h"
-
+#include"BinaryTree.h"
+//#include"Binarytree_Thd.h"
 int main()
 {
-
-	BinaryText();
+	//Text_Thd();
+	TextBintryTree();
 	return 0;
 }
